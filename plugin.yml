@@ -1,0 +1,19 @@
+name: WarpManager
+main: WarpManager\WarpManager
+version: "1.0.0"
+author: TeleMC
+api:
+- 3.0.0-ALPHA7
+- 3.0.0-ALPHA8
+- 3.0.0-ALPHA9
+- 3.0.0-ALPHA10
+- 3.0.0-ALPHA11
+- 3.0.0-ALPHA12
+- 3.0.0
+- 3.1.0
+- 3.2.0
+- 3.3.0
+- 4.0.0
+commands:
+  워프:
+    description: 워프 관련 명령어입니다.
